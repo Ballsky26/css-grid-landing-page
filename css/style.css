@@ -45,3 +45,20 @@ body {
     text-align: center;
     cursor: pointer;
 }
+
+.feature-1 {
+    grid-area: feature-1;
+    background-image: url(../img/Major.jpg);
+    background-size: cover;
+}
+
+.feature-2 {
+    grid-area: feature-2;
+    background-image: url(../img/Major.jpg);
+    background-size: cover;
+}
+
+.features .category {
+    font-size: 3em;
+    font-weight: 200;
+}
